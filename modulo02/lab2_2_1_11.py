@@ -7,4 +7,4 @@ Autor: Mariana Canchola Ramírez
 Fecha: 22 sep 2022
 '''
 
-print("\"Estoy\" \n\"\"aprendiendo\"\" \n\"\"\"Python\"\"\"")
+print("\"Estoy\"",'""aprendiendo""','"""Python"""',sep="\n")
