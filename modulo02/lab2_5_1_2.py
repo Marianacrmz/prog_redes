@@ -1,7 +1,7 @@
 '''
 Descripción: Mejora los comentarios
 Autor: Mariana Canchola Ramírez
-Fecha: 20 sep 2022
+Fecha: 22 sep 2022
 '''
 
 "Aprendiendo a poner comentarios"
