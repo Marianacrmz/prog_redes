@@ -4,7 +4,6 @@ Autor: Mariana Canchola Ramírez
 Fecha: 27 sep 2022
 '''
 
-
 blocks = int(input("Ingresa el número de bloques: "))
 
 height = 0
